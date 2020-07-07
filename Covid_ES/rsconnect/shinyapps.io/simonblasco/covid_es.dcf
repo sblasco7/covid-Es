@@ -1,0 +1,10 @@
+name: covid_es
+title:
+username:
+account: simonblasco
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2333300
+bundleId: 3243181
+url: https://simonblasco.shinyapps.io/covid_es/
+when: 1591630361.09317
